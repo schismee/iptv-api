@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-07 06:19:21,https://live.lalifeier.eu.org/ahtv/ahjjsh.m3u8?t=1745774515&key=a93a5e1794618b8f0038e5d4206cb748
+2026-01-07 18:21:50,https://live.lalifeier.eu.org/ahtv/ahjjsh.m3u8?t=1745774515&key=a93a5e1794618b8f0038e5d4206cb748
 
 ☘️安徽频道,#genre#
 安徽经济生活,https://live.lalifeier.eu.org/ahtv/ahjjsh.m3u8?t=1745774515&key=a93a5e1794618b8f0038e5d4206cb748
@@ -723,6 +723,7 @@ Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9Hv
 动漫秀场,https://live.v1.mk/api/bestv.php?id=dmxc8m/8000000
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-12.ctv
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-7.m3u8
+新动漫,https://tv.iill.top/migu/xdm&token=cc939526aed05a9c3f42c88c61fb8cb76c2acee2ebd65691e243451029eb7b84
 青春动漫,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288008/index.m3u8?channel-id=bestzb&Contentid=5000000011000288008&livemode=1&stbId=YanG-1989
 青春动漫,https://live.v1.mk/api/bestv.php?id=qcdm8m/8000000
 爱动漫,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000280630
