@@ -1,21 +1,19 @@
 🕘️更新时间,#genre#
-2026-07-10 07:08:32,http://112.27.235.94:8000/hls/18/index.m3u8
+2026-07-10 20:23:45,http://112.27.235.94:8000/hls/18/index.m3u8
 
 ☘️安徽频道,#genre#
 合肥新闻,http://112.27.235.94:8000/hls/18/index.m3u8
 
 📺央视频道,#genre#
-CCTV-5+,http://182.37.41.46:8154/tsfile/live/0016_1.m3u8?key=txiptv
-CCTV-6,http://204.12.221.218:8181/3m1080p/cctv6.m3u8
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-11,http://182.37.41.46:8154/tsfile/live/0011_1.m3u8?key=txiptv
 CCTV-12,http://www.negative.top:50000/rtp/233.50.200.21:5140
+CCTV-15,http://182.37.41.46:8154/tsfile/live/0015_1.m3u8?key=txiptv
 
 📡卫视频道,#genre#
 安徽卫视,http://204.12.221.218:8181/3m1080p/ahws.m3u8
-安徽卫视,http://101.66.198.8:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
+浙江卫视,http://182.37.41.46:8154/tsfile/live/0124_1.m3u8?key=txiptv
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 东南卫视,http://204.12.221.218:8181/3m1080p/dnws.m3u8
