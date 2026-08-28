@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-28 13:57:00,https://live.lalifeier.eu.org/ahtv/ahjjsh.m3u8?t=1745774515&key=a93a5e1794618b8f0038e5d4206cb748
+2026-08-29 05:05:00,https://live.lalifeier.eu.org/ahtv/ahjjsh.m3u8?t=1745774515&key=a93a5e1794618b8f0038e5d4206cb748
 
 ☘️安徽频道,#genre#
 安徽经济生活,https://live.lalifeier.eu.org/ahtv/ahjjsh.m3u8?t=1745774515&key=a93a5e1794618b8f0038e5d4206cb748
@@ -663,6 +663,11 @@ TVBS亚洲,https://live.tvfix.org/live/tvbs/index.m3u8
 J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 J2,http://api.kkitv.itv888.vip:8080/streams/48uxa7dlbga/index.m3u8
 Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
+Viutv,http://r.jdshipin.com/vSJvl
+Viutv,http://r.jdshipin.com/TcKr2
+Viutv,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+Viutv,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+Viutv,http://smt.1678520.xyz/smt3.2.3.php?id=viu1_twn
 三立台湾,https://stream1.freetv.fun/san-li-tai-wan-1.ctv
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
